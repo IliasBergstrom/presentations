@@ -2,6 +2,7 @@
 
 ### [The architecture of digital audio workstations (and other time-based media software)](https://sched.co/1PudM)
 #### ADC 2023 - [PDF Slides](https://github.com/IliasBergstrom/presentations/blob/main/Ilias%20Bergstro%CC%88m%20-%20The%20Architecture%20of%20Digital%20Audio%20Workstations.pdf) - Video (will link when available)
+Ilias Bergström
 
 The ADC community has produced a wonderful wealth of material on audio software development!
 But there is a relative dearth on “the big picture”: of how all these coding techniques, practices, strategies, and design patterns, can interrelate, giving rise to the complex beast that is a modern Digital Audio Workstation (DAW).
@@ -22,6 +23,7 @@ This subject area is vast, and a review of every topic and technique is impossib
 
 ### [Detaching the UI - Options and challenges for controlling headless and remote audio software](https://sched.co/19wdb)
 #### ADC 2022 - [PDF Slides](https://github.com/IliasBergstrom/presentations/blob/main/ADC%2022%20-%20Detaching%20the%20UI%20-%20Ilias%20Bergstro%CC%88m%20%26%20Gustav%20Anderson.pdf) - [Video](https://www.youtube.com/watch?v=HfyUe4NLBdM)
+Ilias Bergström, Gustav Anderson
 
 Audio software running in “headless” or remote contexts, i.e. without access to a tightly integrated GUI, is increasingly common, either when running in embedded devices, on a remote cloud server, or distributed over a local network where remote/automated control is desired.
 
@@ -37,6 +39,7 @@ Grounding the above, we provide a pair of ready to use, fully fledged open-sourc
 
 ### [Deploying plugins on hardware using open-source Elk Audio OS](https://sched.co/Ww7f)
 #### ADC 2019 - [PDF Slides](https://github.com/IliasBergstrom/presentations/blob/main/Elk%20Talk%20Slides%20ADC19.pdf) - [Video](https://www.youtube.com/watch?v=HfyUe4NLBdM)
+Stefano Zambon, Gustav Anderson, Ilias Bergström
 
 [Elk Audio OS](https://www.elk.audio/start) significantly streamlines deploying great audio software across digital hardware devices, such as synthesizers, drum-machines and effect pedals.
 
